@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Moin Hussain Moti"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Undergrad Research Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "IIIT Hyderabad", url = "https://www.iiit.ac.in" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include information markets, blockchains and reinforcement learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Information Markets",
+  "Blockchain and Smart Contracts",
+  "Reinforcement Learing",
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +34,9 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B. Tech + MS by Research in Computer Science"
+  institution = "IIIT Hyderabad"
+  year = 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,22 +46,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:moin.moti@research.iiit.ac.in"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://linkedin.com/in/moinmoti"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.uk/citations?user=FUWlkoIAAAAJ"
 
 [[social]]
-  icon = "github"
+  icon = "gitlab"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://gitlab.com/moinmoti"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +72,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am pursuing my research in the field of Information Markets and Blockchains. My work involves analysing the game theoretic aspects of these frameworks and based on that designing mechanisms which are at least as efficient as current mechanisms and preserve privacy of the user. In a gist, the aim is to leverage the decentralization and privacy preserving properties of blockchains in the field of Information Markets.
