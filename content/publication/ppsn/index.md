@@ -17,8 +17,8 @@ authors = ["Sankarshan Damle", "Moin H Moti", "Sujar Gujar"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear in the Proceedings of International Conference on Autonomous Agents and Multiagent Systems, 2019, (AAMAS'19)."
-publication_short = "In AAMAS'19"
+publication = "Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems, AAMAS 2019"
+publication_short = "AAMAS 2019"
 
 # Abstract.
 abstract = """
