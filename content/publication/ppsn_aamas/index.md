@@ -3,7 +3,7 @@ title = "Aggregating Citizen Preferences for Public Projects Through Civic Crowd
 date = 2019-01-23
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sankarshan Damle", "Moin H Moti", "Sujar Gujar"]
+authors = ["Sankarshan Damle", "Moin Hussain Moti", "Praphul Chandra", "Sujar Gujar"]
 
 # Publication type.
 # Legend:
@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["AAMAS", "Prediction Market", "Game Theory"]
+tags = ["IJCAI", "Noncooperative Games", "Auctions", "Game Theory", "Crowdfunding", "Mechanism Design"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -55,7 +55,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1919.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
